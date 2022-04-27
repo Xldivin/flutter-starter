@@ -27,7 +27,7 @@ git clone https://github.com/atlp-rwanda/phantom-fe-elite.git
 - Navigate into the folder name specified
 
 ```bash
-cd phantom-fe-elite
+cd flutter run
 ```
 ## Running the app in Development
 [android studio]
