@@ -33,6 +33,8 @@ cd myapp
 [android studio]
 - in android studio choose the emulator or simulator to run on check [flutter documentation](https://docs.flutter.dev/get-started/install/macos)
 - also open your simulator or emulator and press the run button to run the application
+
+
 [vs code]
 -in vscode also choose where to run the emulator or simulator to run on check[flutter documentation](https://docs.flutter.dev/get-started/install/macos)
 -in the terminal run:
